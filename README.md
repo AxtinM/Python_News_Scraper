@@ -1,5 +1,7 @@
 #  Institute News Scraping
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Domino007/Python_News_Scraper/main)
 
+[!gif example](https://github.com/Domino007/Python_News_Scraper/blob/main/scraper.gif "Script running example")
 > Tired of opening that unorganized news list of your Institute every time ?
 
 **Run this script and get your newest Isitcom Feed Echoed out for you**
